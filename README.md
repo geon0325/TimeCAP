@@ -1,5 +1,5 @@
 # TimeCAP
-This is the official implementation of **TimeCAP: Learning to Contextualize, Augment, and Predict Time Series with LLM Agents**, (Under Submission to NeurIPS 2024).
+Code and datasets of **TimeCAP: Learning to Contextualize, Augment, and Predict Time Series Events with Large Language Model Agents**, (AAAI 2024).
 
 ## Datasets
 We release seven time series datasets from three different domains.
