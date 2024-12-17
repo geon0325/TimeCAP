@@ -1,6 +1,8 @@
 # TimeCAP
 Code and datasets of **TimeCAP: Learning to Contextualize, Augment, and Predict Time Series Events with Large Language Model Agents**, (AAAI 2024).
 
+The supplementary document can be found [here](supplementary.pdf).
+
 ## Datasets
 We release seven time series datasets from three different domains.
 
