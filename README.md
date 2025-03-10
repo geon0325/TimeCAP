@@ -4,6 +4,8 @@ Code and datasets of **TimeCAP: Learning to Contextualize, Augment, and Predict 
 - The arXiv version can be found [here](https://arxiv.org/abs/2502.11418).
 - The supplementary document can be found [here](supplementary.pdf).
 
+## The code for the multi-modal encoder is available upon request: [geonlee0325@kaist.ac.kr](geonlee0325@kaist.ac.kr).
+
 ## Time Series Datasets
 We release seven time series datasets from three different domains, which can be found [here](dataset). 
 
