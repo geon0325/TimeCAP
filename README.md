@@ -28,6 +28,15 @@ You can load the labels of time series events as follows (e.g., weather datasets
 ```python
 with open(f'rain_{city}.pkl', 'rb') as f:
     labels = pkl.load(f)
+
+# weather
+0: not rained / 1: rained
+
+# finance
+0: decreased / 1: neutral / 2: increased
+
+# healthcare
+0: did not exceed the average / 1: exceeded the average
 ```
 
 The total number of events is given by `len(indices)`. The correspondence between the time series and labels is as follows:
