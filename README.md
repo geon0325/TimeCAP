@@ -1,5 +1,5 @@
 # TimeCAP
-Code and datasets of **TimeCAP: Learning to Contextualize, Augment, and Predict Time Series Events with Large Language Model Agents**, (AAAI 2025).
+Code and datasets of **TimeCAP: Learning to Contextualize, Augment, and Predict Time Series Events with Large Language Model Agents** (AAAI 2025).
 
 - The arXiv version can be found [here](https://arxiv.org/abs/2502.11418).
 - The supplementary document can be found [here](supplementary.pdf).
